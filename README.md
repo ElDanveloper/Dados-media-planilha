@@ -43,9 +43,12 @@ Requisitos:
 Node.js
 Npm 
 
-Instale ultilizando o seguindo comando no prompt:
-npm install -g npm
-npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save
+1. Instale as dependências necessárias usando:
+    ```shell
+    npm install -g npm
+2. Execute o aplicativo Streamlit com o comando streamlit:
+   ```shell
+   npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save
 
 Execute a amostra
 No diretório de trabalho, execute o comando:
