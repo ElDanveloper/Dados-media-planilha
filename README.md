@@ -16,7 +16,8 @@ A aplicação deve ser capaz de ler  uma planilha do google sheets, buscar as in
 O projeto está dividido em vários scripts para melhor organização e modularidade.
 <p/>
 <br/>
-1. [test.js](https://github.com/ElDanveloper/Dados-media-planilha/blob/main/scripts/test.js): Onde ocorre todo processamento de dados, desde autenticação, até a leitura de dados, e transcrição.
+   
+[test.js](https://github.com/ElDanveloper/Dados-media-planilha/blob/main/scripts/test.js): Onde ocorre todo processamento de dados, desde autenticação, até a leitura de dados, e transcrição.
 
 ## Instruções de Execução
 
