@@ -46,7 +46,7 @@ Npm
 1. Instale as dependências necessárias usando:
     ```shell
     npm install -g npm
-2. Execute o aplicativo Streamlit com o comando streamlit:
+2. Instale as dependências necessárias usando:
    ```shell
    npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save
 
